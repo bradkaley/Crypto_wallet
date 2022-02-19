@@ -12,4 +12,5 @@ The screenshot below shows the account information for the user's wallet address
 
 In the transcation history section of Ganache, the 3.8 ETH transaction is verified in the screenshot below. The "FROM ADDRESS" matches that of the user, the "TO CONTRACT ADDRESS" matches that of the Fintech professional, and the "TX HASH" matches the "Validated Transcation Hash" generated in the application.  
 
+![Ganache account](Ganache_screenshots/ganache_account.png)
 ![Ganache transactions](Ganache_screenshots/ganache_transcations.png)
